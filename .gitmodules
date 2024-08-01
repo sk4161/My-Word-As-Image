@@ -1,0 +1,3 @@
+[submodule "Word-As-Image"]
+	path = Word-As-Image
+	url = https://github.com/sk4161/Word-As-Image.git
